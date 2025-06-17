@@ -1,0 +1,5 @@
+# Installing Additional Arduino Libraries
+# https://www.arduino.cc/en/guide/libraries
+DHTlib
+TinyWireM
+Tiny4kOLED
